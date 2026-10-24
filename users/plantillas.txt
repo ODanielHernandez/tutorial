@@ -1,0 +1,27 @@
+Usuario
+    Nombre
+    Correo
+    Telefono
+    Contraseña
+    identificador
+    Unidad
+    Fecha de registro
+
+Profesor
+    Especilidad
+    Nivel de estudio
+    Clases, tipo Clase una lista
+    
+Clase
+    Nombre
+    Horas
+    Carrera
+    
+Alumno
+    Fecha de admision
+    Generacion
+    Carrera
+    Promedio
+    Semestre
+
+Administrativos
