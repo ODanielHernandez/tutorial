@@ -11,6 +11,7 @@ class StudentStatusType(models.IntegerChoices):
     EXTERNAL = (6, "external")
 
 
+
 class User(models.Model):
     class GenderType(models.IntegerChoices):
         MALE = (1, "male")
